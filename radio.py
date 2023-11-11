@@ -1,13 +1,9 @@
 from tkinter import *
 
-# from PIL import ImageTk,Image
 from tkinter import messagebox
 
 root = Tk()
 root.title("Deepesh")
-# root.iconbitmap("C:/Users/Deepesh/Desktop/image.jpg")
-
-# showinfo, showwarning, showerror, askquestion, askokcancel, askyesno
 
 
 def popup():
